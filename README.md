@@ -4,7 +4,7 @@ Designed for Surge, It may not be compatible with other clients.
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-Redistributions of source code must retain the original copyright notice, this list of conditions and the following disclaimer.
+Redistributions of source code must retain the original copyright notice.
 
 ## Modules
 
