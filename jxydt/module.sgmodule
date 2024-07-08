@@ -1,0 +1,10 @@
+#!name=驾校一点通破解
+#!desc=解锁驾校一点通全科目会员
+#!author=Blueagle
+#!homepage=https://blueagle.top
+#!category=Blueagle's Modules
+# Author: https://blueagle.top
+[Script]
+script = type=http-response,pattern=^https://(vipapi.ksedt.com/(store/(h5/)?(batchCheckRights|checkRights)|rights/checkRights)|op.ksedt.com/jxedtLive/h5/topicDetail|kaoshiapi.ksedt.com/(realPlace/getResourceBycityId|exam/place/video/list)),requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/jxydt/script.js
+[MITM]
+hostname = %APPEND% vipapi.ksedt.com, op.ksedt.com, kaoshiapi.ksedt.com
