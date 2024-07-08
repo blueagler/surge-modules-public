@@ -2,9 +2,19 @@
 
 Designed for Surge, It may not be compatible with other clients.
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+## License
 
-Redistributions of source code must retain the original copyright notice.
+![License](https://img.shields.io/badge/license-Proprietary-blue)
+
+SPDX-License-Identifier: Proprietary
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software to use the software in its original, unmodified form, subject to the following conditions:
+
+Reproduction, redistribution, modification, or use in another project is permitted with full credit to the original author. This license and copyright notice must be included.
+
+This notice and the following disclaimer must be retained in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Modules
 
