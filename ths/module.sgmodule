@@ -1,0 +1,10 @@
+#!name=同花顺破解
+#!desc=解锁同花顺特权
+#!author=Blueagle
+#!homepage=https://blueagle.top
+#!category=Blueagle's Modules
+# Author: https://blueagle.top
+[Script]
+script = type=http-response,pattern=^https://fund.10jqka.com.cn/marketing/user/level/query/level,requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ths/script.js
+[MITM]
+hostname = %APPEND% fund.10jqka.com.cn

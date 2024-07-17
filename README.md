@@ -18,6 +18,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Modules
 
+### [同花顺破解](https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ths/module.sgmodule)
+
+#### 解锁同花顺特权
+
+[Install it on Surge by one click](https://intradeus.github.io/http-protocol-redirector?r=surge:///install-module?url=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ths/module.sgmodule)
+
 ### [Photomath Plus](https://raw.githubusercontent.com/blueagler/surge-modules-public/master/photomath/module.sgmodule)
 
 #### Unlock Photomath Plus features
