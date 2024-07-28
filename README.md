@@ -30,6 +30,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [Install it on Surge by one click](https://intradeus.github.io/http-protocol-redirector?r=surge:///install-module?url=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/photomath/module.sgmodule)
 
+### [彩云天气破解](https://raw.githubusercontent.com/blueagler/surge-modules-public/master/cytq/module.sgmodule)
+
+#### 解锁彩云天气SVIP会员
+
+[Install it on Surge by one click](https://intradeus.github.io/http-protocol-redirector?r=surge:///install-module?url=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/cytq/module.sgmodule)
+
 ### [驾校一点通破解](https://raw.githubusercontent.com/blueagler/surge-modules-public/master/jxydt/module.sgmodule)
 
 #### 解锁驾校一点通全科目会员

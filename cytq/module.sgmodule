@@ -1,0 +1,10 @@
+#!name=彩云天气破解
+#!desc=解锁彩云天气SVIP会员
+#!author=Blueagle
+#!homepage=https://blueagle.top
+#!category=Blueagle's Modules
+# Author: https://blueagle.top
+[Script]
+script = type=http-response,pattern=^https://biz.cyapi.cn/(v2/user|p/v1/vip_info),requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/cytq/script.js
+[MITM]
+hostname = %APPEND% biz.cyapi.cn
