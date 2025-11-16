@@ -42,3 +42,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [Install it on Surge by one click](https://intradeus.github.io/http-protocol-redirector?r=surge:///install-module?url=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/jxydt/module.sgmodule)
 
+### [ld](https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ld/module.sgmodule)
+
+#### ld
+
+[Install it on Surge by one click](https://intradeus.github.io/http-protocol-redirector?r=surge:///install-module?url=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ld/module.sgmodule)
+

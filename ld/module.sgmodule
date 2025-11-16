@@ -1,0 +1,10 @@
+#!name=ld
+#!desc=ld
+#!author=Blueagle
+#!homepage=https://blueagle.top
+#!category=Blueagle's Modules
+# Author: https://blueagle.top
+[Script]
+script = type=http-request,pattern=^https://zone(.*).ledou.qq.com/fcgi-bin,requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ld/script.js
+[MITM]
+hostname = %APPEND% zone(.*).ledou.qq.com
