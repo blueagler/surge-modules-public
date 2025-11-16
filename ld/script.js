@@ -1,18 +1,3 @@
-const headers = $request.headers || {};
-// find Content-Type header case-insensitively
-let contentType = '';
-for (const k in headers) {
-    if (k && k.toLowerCase() === 'content-type') {
-        contentType = headers[k] || '';
-        break;
-    }
-}
-
-if (!contentType || contentType.toLowerCase().indexOf('application/x-www-form-urlencoded') === -1) {
-    $done({});
-    return;
-}
-
 const body = $request.body || '';
 
 function parseForm(s) {
