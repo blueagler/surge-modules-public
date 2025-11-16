@@ -53,4 +53,5 @@ params['ad'] = '1';
 params['is_double'] = '1';
 
 const newBody = buildForm(params);
+console.log('LD Modified body:', newBody);
 $done({ body: newBody });
