@@ -5,6 +5,6 @@
 #!category=Blueagle's Modules
 # Author: https://blueagle.top
 [Script]
-script = type=http-request,requires-body=true,pattern=^https://zone(.*).ledou.qq.com/fcgi-bin,requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ld/script.js
+script = type=http-request,requires-body=true,pattern=^https://zone12.ledou.qq.com/fcgi-bin,requires-body=1,script-path=https://raw.githubusercontent.com/blueagler/surge-modules-public/master/ld/script.js
 [MITM]
-hostname = %APPEND% zone(.*).ledou.qq.com
+hostname = %APPEND% zone12.ledou.qq.com
